@@ -11,7 +11,6 @@ class Contact {
 
   @override
   String toString() {
-    // TODO: implement toString
     return 'Contact{ id: $id, name: $name, accountNumber: $accountNumber)';
   }
 }
